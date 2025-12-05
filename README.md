@@ -1,6 +1,6 @@
 # Undiscord - Delete all messages in a Discord channel or DM
 
-# I forked this for brave only, and replaced the most recent version with a previously working version that I've updated to not look like shit and still work on brave as I'm sick of coming to this project and fixing it every 3 to 4 months.
+# I forked this for brave only, and replaced the most recent version with a previously working version that I've updated to not look like shit and still work on brave as I'm sick of coming to this project and fixing it every 3 to 4 months. It may work on other browsers, but I'm not testing it. kek.
 
 
 > ⚠️ **Any tool that automates actions on user accounts, including this one, could result in account termination.** (see [self-bots][self-bots]).  
