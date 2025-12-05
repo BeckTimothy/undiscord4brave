@@ -9,7 +9,9 @@
 (Due to changes in chrome manifest V3, [Brave browser][brave_browser] is recommended)
 
 1. First you need a Browser Extension for managing UserScripts[[1]][userscrips_faq] (skip if you already have one): '
-   * Brave: [Violentmonkey][chrome_violentmonkey] 
+   * Brave: [Violentmonkey][chrome_violentmonkey]
+  
+     This does not work on tampermonkey, because I don't feel like fixing that.
     
 2. Paste code from the only js file into violentmonkey. 
 
