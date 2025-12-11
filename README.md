@@ -1,6 +1,6 @@
 # Undiscord - Delete all messages in a Discord channel or DM
 
-### I forked this with concern for brave-browser only, and replaced the most recent version with a previously working version that I've updated to not look like shit and still work on brave as I'm sick of coming to this project and fixing it every 3 to 4 months. It may work on other browsers, but I'm not testing it. Also, due to transparency glitch with originally programmed colors, I hardcoded css to only match the default dark mode colors in the affected areas. I'm not porting the popout tray to dynamically style with whatever background colors you use, because that's out of scope for my client. :) So unless using the default dark-mode background colros for discord, it will probably look bad or be unreadable.
+#### I forked this with concern for brave-browser only, and replaced the most recent version with a previously working version that I've updated to not look like shit and still work on brave as I'm sick of coming to this project and fixing it every 3 to 4 months. It may work on other browsers, but I'm not testing it. Also, due to transparency glitch with originally programmed colors, I hardcoded css to only match the default dark mode colors in the affected areas. I'm not porting the popout tray to dynamically style with whatever background colors you use, because that's out of scope for my client. :) So unless using the default dark-mode background colors for discord, it will probably look bad or be unreadable. #WorksOnMyMachine
 
 ---
 
